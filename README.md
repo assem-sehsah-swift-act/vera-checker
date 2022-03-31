@@ -1,2 +1,2 @@
 # vera-checker
-Swift-Act Vera++ Project Checker
+Swift-Act: Vera++ Project Checker
